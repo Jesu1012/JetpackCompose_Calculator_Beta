@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">TestJetpack</string>
+    <string name="placeholder_search">Search</string>
+    <string name="ab1_inversions">Inversions</string>
+    <string name="fc2_nature_meditations">Nature meditations</string>
+    <string name="text1">Texto 1</string>
+    <string name="text2">Texto 2</string>
+    <string name="text3">Texto 3</string>
+    <string name="align_your_body">align_your_body</string>
+    <string name="favorite_collections">favorite_collections</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
 </resources>
